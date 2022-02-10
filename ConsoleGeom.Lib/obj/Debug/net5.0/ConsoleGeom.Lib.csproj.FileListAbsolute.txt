@@ -1,0 +1,12 @@
+C:\ConsoleGeom\ConsoleGeom.Lib\bin\Debug\net5.0\ConsoleGeom.Lib.deps.json
+C:\ConsoleGeom\ConsoleGeom.Lib\bin\Debug\net5.0\ConsoleGeom.Lib.dll
+C:\ConsoleGeom\ConsoleGeom.Lib\bin\Debug\net5.0\ref\ConsoleGeom.Lib.dll
+C:\ConsoleGeom\ConsoleGeom.Lib\bin\Debug\net5.0\ConsoleGeom.Lib.pdb
+C:\ConsoleGeom\ConsoleGeom.Lib\obj\Debug\net5.0\ConsoleGeom.Lib.csproj.AssemblyReference.cache
+C:\ConsoleGeom\ConsoleGeom.Lib\obj\Debug\net5.0\ConsoleGeom.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConsoleGeom\ConsoleGeom.Lib\obj\Debug\net5.0\ConsoleGeom.Lib.AssemblyInfoInputs.cache
+C:\ConsoleGeom\ConsoleGeom.Lib\obj\Debug\net5.0\ConsoleGeom.Lib.AssemblyInfo.cs
+C:\ConsoleGeom\ConsoleGeom.Lib\obj\Debug\net5.0\ConsoleGeom.Lib.csproj.CoreCompileInputs.cache
+C:\ConsoleGeom\ConsoleGeom.Lib\obj\Debug\net5.0\ConsoleGeom.Lib.dll
+C:\ConsoleGeom\ConsoleGeom.Lib\obj\Debug\net5.0\ref\ConsoleGeom.Lib.dll
+C:\ConsoleGeom\ConsoleGeom.Lib\obj\Debug\net5.0\ConsoleGeom.Lib.pdb
