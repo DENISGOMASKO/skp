@@ -1,0 +1,16 @@
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\bin\Debug\net5.0\BinominalTh.exe
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\bin\Debug\net5.0\BinominalTh.deps.json
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\bin\Debug\net5.0\BinominalTh.runtimeconfig.json
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\bin\Debug\net5.0\BinominalTh.runtimeconfig.dev.json
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\bin\Debug\net5.0\BinominalTh.dll
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\bin\Debug\net5.0\ref\BinominalTh.dll
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\bin\Debug\net5.0\BinominalTh.pdb
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\obj\Debug\net5.0\BinominalTh.csproj.AssemblyReference.cache
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\obj\Debug\net5.0\BinominalTh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\obj\Debug\net5.0\BinominalTh.AssemblyInfoInputs.cache
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\obj\Debug\net5.0\BinominalTh.AssemblyInfo.cs
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\obj\Debug\net5.0\BinominalTh.csproj.CoreCompileInputs.cache
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\obj\Debug\net5.0\BinominalTh.dll
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\obj\Debug\net5.0\ref\BinominalTh.dll
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\obj\Debug\net5.0\BinominalTh.pdb
+C:\Users\VorobevIV\source\repos\BinominalTh\BinominalTh\obj\Debug\net5.0\BinominalTh.genruntimeconfig.cache
